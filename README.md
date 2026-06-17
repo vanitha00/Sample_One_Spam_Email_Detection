@@ -6,7 +6,7 @@ A simple Machine Learning project that classifies emails as spam or not spam usi
 - Email text preprocessing
 - Spam email classification
 - Model training and prediction
-
+  
 ## Technologies Used
 - Python
 - Pandas
